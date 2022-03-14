@@ -1,0 +1,19 @@
+
+{
+	"word": "cinic",
+	"word_en": "cynical",
+	"type": "adjective",
+	"singular": ["cinic"],
+	"plural": ["cinici"],
+	"definitions": [
+		{
+			"dict": "DEX online",
+			"dictType": "definitions",
+			"year": 2002,
+			"text": ["Care manifestă o atitudine condamnabilă, sfidând regulile moralei, normele de conviețuire socială și de bună-cuviință",
+			"care trădează, exprimă asemenea atitudini",
+			"Filosofie cinică = doctrină filosofică din Grecia antică, care nu recunoștea normele sociale existente și preconiza o viață simplă și reîntoarcerea la natură"]
+		}
+		]
+	}
+

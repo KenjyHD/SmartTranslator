@@ -1,0 +1,171 @@
+[
+  {
+    "word": "cinic",
+    "word_en": "cynical",
+    "type": "adjective",
+    "singular": [
+      "cinic"
+    ],
+    "plural": [
+      "cinici"
+    ],
+    "definitions": [
+      {
+        "dict": "DEX online",
+        "dictType": "definitions",
+        "year": 2002,
+        "text": [
+          "Care manifestă o atitudine condamnabilă, sfidând regulile moralei, normele de conviețuire socială și de bună-cuviință",
+          "care trădează, exprimă asemenea atitudini",
+          "Filosofie cinică \u003d doctrină filosofică din Grecia antică, care nu recunoștea normele sociale existente și preconiza o viață simplă și reîntoarcerea la natură"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "câine",
+    "word_en": "dog",
+    "type": "noun",
+    "singular": [
+      "câine"
+    ],
+    "plural": [
+      "câini"
+    ],
+    "definitions": [
+      {
+        "dict": "Dicționar universal al limbei române, ediția a VI-a)",
+        "dictType": "definitions",
+        "year": 1929,
+        "text": [
+          "animal domestic din familia carnivorelor digitigrade",
+          "fig. (termen de dispreț) om rău (câinele fiind considerat ca tipul răutății): câinele de tată-său Pop",
+          "nume a două constelațiuni",
+          "Mold. (sens tehnic) masă de tras doage"
+        ]
+      },
+      {
+        "dict": "Dicționar de sinonime",
+        "dictType": "synonyms",
+        "year": 1998,
+        "text": [
+          "lătrător",
+          "molie",
+          "dulău"
+        ]
+      },
+      {
+        "dict": "Dicționarul explicativ al limbii române (ediția a II-a revăzută și adăugită)",
+        "dictType": "definitions",
+        "year": 2009,
+        "text": [
+          "Animal mamifer carnivor, domesticit, folosit pentru pază, vânătoare etc."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "fuge",
+    "word_en": "run",
+    "type": "verb",
+    "singular": [
+      "fug",
+      "fugi",
+      "fuge"
+    ],
+    "plural": [
+      "fugem",
+      "fugeți",
+      "fug"
+    ],
+    "definitions": [
+      {
+        "dict": "Dic\u0027ionarul de sinonime",
+        "dictType": "synonyms",
+        "year": 2010,
+        "text": [
+          "alearga",
+          "dezerteaza",
+          "evadeaza"
+        ]
+      },
+      {
+        "dict": "DEX online",
+        "dictType": "definitions",
+        "year": 2022,
+        "text": [
+          "A se deplasa cu pași repezi, a se mișca iute într-o direcție, a merge în fugă",
+          "(Despre vreme sau despre unități de timp) A trece repede, a se scurge rapid."
+        ]
+      }
+    ]
+  },
+  {
+    "word": "merge",
+    "word_en": "walk",
+    "type": "verb",
+    "singular": [
+      "merg",
+      "mergi",
+      "merge"
+    ],
+    "plural": [
+      "mergem",
+      "mergeți",
+      "merg"
+    ],
+    "definitions": [
+      {
+        "dict": "Dicționarul explicativ al limbii române (ediția a II-a revăzută și adăugită)",
+        "dictType": "definitions",
+        "year": 2009,
+        "text": [
+          "A se mișca deplasându-se dintr-un loc în altul; a se deplasa, a umbla",
+          "A putea fi înghițit ușor; a aluneca pe gât"
+        ]
+      }
+    ]
+  },
+  {
+    "word": "pisică",
+    "word_en": "cat",
+    "type": "noun",
+    "singular": [
+      "pisică"
+    ],
+    "plural": [
+      "pisici"
+    ],
+    "definitions": [
+      {
+        "dict": "Dicționar de sinonime",
+        "dictType": "synonyms",
+        "year": 1998,
+        "text": [
+          "mâță",
+          "cotoroabă",
+          "cătușă"
+        ]
+      },
+      {
+        "dict": "Dicționarul explicativ al limbii române, ediția a II-a",
+        "dictType": "definitions",
+        "year": 2002,
+        "text": [
+          "Mamifer domestic carnivor din familia felinelor, cu corpul suplu, acoperit cu blană deasă și moale de diferite culori, cu capul rotund, cu botul foarte scurt, cu maxilarele puternice și cu ghearele retractile și ascuțite",
+          "Dispozitiv de agățare și de desprindere a berbecului din capătul cablului de ridicare de la sonetele cu cădere liberă",
+          "Mănunchi de sârme de oțel, folosit pentru curățarea de noroi sau de pământ a utilajelor de foraj"
+        ]
+      },
+      {
+        "dict": "DEX online",
+        "dictType": "synonyms",
+        "year": 2002,
+        "text": [
+          "Animal domestic, carnivor, din familia felinelor",
+          "Este folositor prin faptul că stîrpește șoarecii"
+        ]
+      }
+    ]
+  }
+]
